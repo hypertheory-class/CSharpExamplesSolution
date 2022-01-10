@@ -17,7 +17,7 @@ namespace CSharpExamples
         public void CanConvertFromFToC(float tempInF, float expected)
         {
             // given
-           
+            // create an instance of the class
             var converter = new TemperatureConverter();
 
             // when
