@@ -10,7 +10,7 @@ namespace CSharpExamples
 {
     public class ConvertingTemperatures
     {
-        // more comments and some more
+      
         [Theory]
         [InlineData(212, 100.01F)]
         [InlineData(32, 0)]
